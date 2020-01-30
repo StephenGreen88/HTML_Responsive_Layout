@@ -1,0 +1,14 @@
+/* Styling the body -- Best practice to start with the body first */ 
+body {
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* Styling the container class -- I want this responsive so width will be 80% and margin auto, also hiding scroll bar with overflow: hidden*/
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
